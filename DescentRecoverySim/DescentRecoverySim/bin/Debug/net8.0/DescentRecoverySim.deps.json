@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DescentRecoverySim/1.0.0": {
+        "runtime": {
+          "DescentRecoverySim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DescentRecoverySim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

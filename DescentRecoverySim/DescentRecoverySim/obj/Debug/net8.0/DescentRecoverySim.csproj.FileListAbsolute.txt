@@ -1,0 +1,14 @@
+C:\Misc Coding Projects\DescentRecoverySim\DescentRecoverySim\bin\Debug\net8.0\DescentRecoverySim.exe
+C:\Misc Coding Projects\DescentRecoverySim\DescentRecoverySim\bin\Debug\net8.0\DescentRecoverySim.deps.json
+C:\Misc Coding Projects\DescentRecoverySim\DescentRecoverySim\bin\Debug\net8.0\DescentRecoverySim.runtimeconfig.json
+C:\Misc Coding Projects\DescentRecoverySim\DescentRecoverySim\bin\Debug\net8.0\DescentRecoverySim.dll
+C:\Misc Coding Projects\DescentRecoverySim\DescentRecoverySim\bin\Debug\net8.0\DescentRecoverySim.pdb
+C:\Misc Coding Projects\DescentRecoverySim\DescentRecoverySim\obj\Debug\net8.0\DescentRecoverySim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Misc Coding Projects\DescentRecoverySim\DescentRecoverySim\obj\Debug\net8.0\DescentRecoverySim.AssemblyInfoInputs.cache
+C:\Misc Coding Projects\DescentRecoverySim\DescentRecoverySim\obj\Debug\net8.0\DescentRecoverySim.AssemblyInfo.cs
+C:\Misc Coding Projects\DescentRecoverySim\DescentRecoverySim\obj\Debug\net8.0\DescentRecoverySim.csproj.CoreCompileInputs.cache
+C:\Misc Coding Projects\DescentRecoverySim\DescentRecoverySim\obj\Debug\net8.0\DescentRecoverySim.dll
+C:\Misc Coding Projects\DescentRecoverySim\DescentRecoverySim\obj\Debug\net8.0\refint\DescentRecoverySim.dll
+C:\Misc Coding Projects\DescentRecoverySim\DescentRecoverySim\obj\Debug\net8.0\DescentRecoverySim.pdb
+C:\Misc Coding Projects\DescentRecoverySim\DescentRecoverySim\obj\Debug\net8.0\DescentRecoverySim.genruntimeconfig.cache
+C:\Misc Coding Projects\DescentRecoverySim\DescentRecoverySim\obj\Debug\net8.0\ref\DescentRecoverySim.dll
