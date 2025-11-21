@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DescentRecoverySim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df498f10a8a4c6e2d55ed40b25c9811657b00e49")]
 [assembly: System.Reflection.AssemblyProductAttribute("DescentRecoverySim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DescentRecoverySim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

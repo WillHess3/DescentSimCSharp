@@ -6,7 +6,7 @@
         private readonly float _mean;
         private readonly float _standardDeviation;
 
-        private Random _random;
+        private readonly Random _random;
 
         public NormalDistribution(float mean, float standardDeviation) {
             _mean = mean;
